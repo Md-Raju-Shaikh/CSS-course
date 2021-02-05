@@ -1,0 +1,11 @@
+.c1{
+	border: 5px solid blue;
+	width: 400px;
+	margin: auto;
+}
+
+.c2{
+	border: 5px solid green;
+	max-width: 400px;
+	margin: auto;
+}

@@ -1,0 +1,41 @@
+.c1{
+	width: 200px;
+	height: 200px;
+	background: linear-gradient(red , blue , green);
+}
+
+.c2{
+	width: 200px;
+	height: 200px;
+	background: linear-gradient(to right , red , blue , green);
+}
+
+.c3{
+	width: 200px;
+	height: 200px;
+	background: linear-gradient(to right bottom , red , blue , green);
+}
+
+.c4{
+	width: 200px;
+	height: 200px;
+	background: linear-gradient(red 50% , green 50%);
+}
+
+.c5{
+	width: 200px;
+	height: 200px;
+	background: radial-gradient(red , green);
+}
+
+.c6{
+	width: 200px;
+	height: 200px;
+	background: radial-gradient(blue , green , red);
+}
+
+.c7{
+	width: 200px;
+	height: 200px;
+	background: radial-gradient(green 10% , red 70% , blue 20%);
+}

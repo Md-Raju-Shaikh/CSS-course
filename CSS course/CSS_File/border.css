@@ -1,0 +1,14 @@
+.bor{
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 10px;
+	
+	<!-- border: 5px solid blue 10px;-->
+	<!--border-style: dashed; -->
+	<!--border-style: ridge; -->
+	<!--border-style: inset; -->
+	<!--border-style: dotted; -->
+	<!--border-style: none; -->
+	
+}

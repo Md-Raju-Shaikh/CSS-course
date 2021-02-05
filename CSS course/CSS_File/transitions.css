@@ -1,0 +1,14 @@
+.bluebox{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	
+	transition: 3s , 1s width;
+	transition-timing-function: ease-in;
+}
+
+.bluebox:hover{
+	width: 200px;
+	height: 150px;
+	transform: rotate(180deg);
+}

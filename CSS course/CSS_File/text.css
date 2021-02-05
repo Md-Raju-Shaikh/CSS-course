@@ -1,0 +1,30 @@
+.ln{
+	text-decoration: none;
+	color: red;
+}
+.tx{
+	text-decoration: underline;
+	<!-- text-decoration: line-through; -->
+	<!-- text-decoration: overline; -->
+}
+.xt{
+	text-transform: uppercase;
+	<!--text-transform: lowercase; -->
+	<!--text-transform: capitalize; -->
+}
+.st{
+	text-indent: 50px;
+	text-decoration: underline;
+}
+.ls{
+	letter-spacing:20px;
+	word-spacing: 100px;
+	text-shadow: 1px 3px blue;
+}
+.lineDistance{
+	line-height:1;
+	font-size: 20px;
+}
+.lineDistance2{
+	line-height:3;
+}

@@ -1,0 +1,30 @@
+body{
+	margin-top: 50px;
+}
+.lnk{
+	color: white;
+	font-family: tahoma;
+	font-size: 40px;
+	padding: 20px 40px;
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+	margin-left:50px;
+}
+
+.lnk:link{
+	background: blue;
+}
+
+.lnk:visited{
+	background: red;
+}
+
+.lnk:hover{
+	background: green;
+	color: #150789;
+}
+
+.lnk:active{
+	background: blue;
+}

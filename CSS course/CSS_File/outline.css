@@ -1,0 +1,30 @@
+.out{
+	width: 400px;
+	height: 150px;
+	background: blue;
+	text-align: center;
+	color: white;
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+	
+	outline-style: dashed;
+	outline-color: green;
+	outline-width: 20px;
+}
+.varsity{
+	margin-top: 100px;
+	width: 400px;
+	height: 150px;
+	background: blue;
+	text-align: center;
+	color: white;
+	border-style: double;
+	border-color: red;
+	border-width: 10px;
+	
+	outline-style: solid;
+	outline-color: green;
+	outline-width: 20px;
+	outline-offset: 15px;
+}

@@ -1,0 +1,46 @@
+.box{
+	width: 400px;
+	height: 200px;
+	background: blue;
+	animation-name: anima;
+	animation-duration: 5s;
+}
+
+@keyframes anima{
+	from {background-color: blue;}
+	to {background-color: green;}
+}
+
+.box2{
+	width: 400px;
+	height: 200px;
+	background: blue;
+	animation-name: ani;
+	animation-duration: 3s;
+	animation-delay: 2s;
+	position: relative;
+}
+
+@keyframes ani{
+	0% {background-color: blue;
+	left: 0;
+	right: 0;
+	top: 0;}
+	
+	25% {background-color: red;
+	right: 0;
+	top: 300;}
+	
+	50% {background-color:
+	green;
+	right: 0;
+	bottom: 0;}
+	
+	75% {background-color: gray;
+	left: 0;
+	bottom: 0;}
+	
+	100% {background-color: yellow;
+	left: 0;
+	bottom: 300;}
+}

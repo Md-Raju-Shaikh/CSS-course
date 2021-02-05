@@ -1,0 +1,26 @@
+.dis{
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+	text-shadow: 1px 4px;
+	font-size: 50px;
+	
+}
+
+.nodis{
+	display: none;
+}
+
+.disblock{
+	text-align: center;
+	display: block;
+	font-size: 40px;
+}
+
+.inlinedis{
+	display: inline-block;
+}
+
+ul li{
+	display: inline;
+}

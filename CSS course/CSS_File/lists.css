@@ -1,0 +1,7 @@
+.ls{
+	list-style-type: circle;
+}
+
+.lsimage{
+	list-style-image: url("../a.jpg");
+}

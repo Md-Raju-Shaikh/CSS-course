@@ -1,0 +1,30 @@
+.imag{
+	width: 400px;
+	float: right;    <!-- float: none; -->
+}
+
+.c{
+	clear: right;
+}
+
+.box{
+	height: 300px;
+	width: 25%;
+	float: left;
+}
+
+.box1{
+	background: blue;
+}
+
+.box2{
+	background: green;
+}
+
+.box3{
+	background: gray;
+}
+
+.box4{
+	background: yellow;
+}

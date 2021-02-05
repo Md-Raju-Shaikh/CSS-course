@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+}
+.mar{
+	width: 400px;
+	height: 280px;
+	background: blue;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-bottom: 150px;
+}
+.m{
+	width: 250px;
+	height: 250px;
+	background: green;
+	margin: 50px;
+}
+.mred{
+	width: 100%;
+	height: 250px;
+	background: red;
+}
+.mpink{
+	width: 50%;
+	height: 250px;
+	background: #E531F7;
+	margin: 50px auto;
+}

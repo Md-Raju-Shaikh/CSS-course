@@ -1,0 +1,20 @@
+.m:hover{
+	opacity: 0.5;
+}
+
+.bg{
+	background: url('../ai.jpg') no-repeat center / cover;
+	width: 500px;
+	height: 450px;
+	overflow: hidden;
+}
+
+.box p{
+	background: white;
+	text-align: center;
+	padding: 30px;
+	opacity: 0.5;
+	margin-top: 200px;
+	font-size: 50px;
+	color: blue;
+}

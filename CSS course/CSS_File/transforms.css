@@ -1,0 +1,53 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	padding: 20px;
+	color: white;
+	
+	transform: translate(200px , 100px);
+}
+
+.redbox{
+	width: 120px;
+	height: 120px;
+	background: red;
+	padding: 20px;
+	color: white;
+	
+	transform: translateX(500px);
+}
+
+.greenbox{
+	width: 120px;
+	height: 120px;
+	background: green;
+	padding: 20px;
+	color: white;
+	
+	transform: translateY(10px);
+}
+
+.yellowbox{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	padding: 10px;
+	color: white;
+	
+	margin: 50px auto;
+	
+	transform: rotate(45deg);
+}
+
+.bluebox{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	padding: 10px;
+	color: white;
+	
+	margin: 100px auto;
+	
+	transform: skew(30deg);
+}

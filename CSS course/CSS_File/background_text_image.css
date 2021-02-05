@@ -1,0 +1,9 @@
+div{
+	width:480px;
+	height:380px;
+	background-image:url("../ai.jpg");
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-size: 480px auto;
+	<!--background-attachment: fixed;-->
+}

@@ -1,0 +1,12 @@
+.pad{
+	width: 480px;
+	height: 380px;
+	background: blue;
+	text-align: center;
+	color: white;
+	
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 200px;
+	padding-bottom: 200px;
+}
